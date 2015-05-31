@@ -25,7 +25,7 @@ PART 1
     * 이론 : Analysis
     * 발표자 - 최일지
     * 발표자료 2 - http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/Objectives.html
-    * 실습 : 미정
+    * 실습 : 문자열 암호화 - https://algospot.com/judge/problem/read/ENCRYPT
 
 3. 3회차 - 스택 (2015-06-15)
     * 이론 : Basic Data Structures - Stack
