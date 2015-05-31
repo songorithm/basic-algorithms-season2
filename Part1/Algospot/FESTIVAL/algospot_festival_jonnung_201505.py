@@ -1,8 +1,8 @@
 # -*- coding: utf8 -*-
 # author: Eunwoo Cho <jonnung@gmail.com>
 
-import cProfile
-from random import randint
+# import cProfile
+# from random import randint
 
 
 def solve_festival(l, c, t):
