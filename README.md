@@ -55,7 +55,7 @@ PART 2
 
 2. 7회차 - 동적 계획법 (2015-08-10)
     * 이론 : Recursion -  Dynamic Programming
-    * 발표자 : OOO, OOO
+    * 발표자 : 방진호, OOO
     * 발표자료 - http://interactivepython.org/courselib/static/pythonds/Recursion/DynamicProgramming.html
     * 실습 : 8장. 원주율 외우기 - https://algospot.com/judge/problem/read/PI
 
