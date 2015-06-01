@@ -6,10 +6,11 @@
 
 
 def solve_festival(l, c, t):
-    min_avg = sum(l) / float(c)
+    # min_avg = sum(l) / float(c)
+    min_avg = 100
     last_start_index = c - t + 1
 
-    for start in range(last_start_index):
+    for start in xrange(last_start_index):
         end = start + t
         tmp_list = l[start:end]
         tmp_sum = sum(tmp_list)
