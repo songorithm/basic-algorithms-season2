@@ -11,3 +11,12 @@
     - 문제 나갑니다!
         - 앞으로 N일간의 공연장 **대여 비용을 알고 있음**
         - 이 중 **L일 이상을 연속해서 대여**하되, 공연장을 **하루 빌리는데 드는 평균 비용을 최소화**하려면 어떻게 공연장을 빌려야 할까?
+- 문제 풀이
+
+| 제출자 |  길이    | 수행시간 | 파일명 |
+| ----- | ------- | ------- | ----- |
+| 정재윤 |  1.0KB  | 1476ms  | algospot_festival_zenajung_201505.py |
+| 임상배 |  634B   | 4095ms  | algospot_festival_steve10_201505.py (풀이: Songorithm_01_Festival.ipynb |
+| 최일지 |  892B   | 4228ms  | algospot_festival_iljichoi_201505.py |
+| 조은우 |  905B   | 4844ms  | algospot_festival_jonnung_201505.py |
+
