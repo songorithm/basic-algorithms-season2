@@ -1,6 +1,7 @@
 # -*- coding: utf8 -*-
 # author: Eunwoo Cho <jonnung@gmail.com>
 
+
 def validate_bracket(brackets):
     brackets_mapping = {
         '(': ')',
