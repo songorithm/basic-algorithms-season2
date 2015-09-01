@@ -49,30 +49,30 @@ PART 2
 ----
 1. 6회차 - 재귀 (2015-07-27)
     * 이론 : Recursion - Recursion
-    * 발표자 : 정재윤, OOO
+    * 발표자 : 정재윤, 정동우
     * 발표자료 - http://interactivepython.org/courselib/static/pythonds/Recursion/Objectives.html
     * 실습 : 6장. 소풍 - https://algospot.com/judge/problem/read/PICNIC
 
 2. 7회차 - 동적 계획법 (2015-08-10)
     * 이론 : Recursion -  Dynamic Programming
-    * 발표자 : 방진호, OOO
+    * 발표자 : 방진호
     * 발표자료 - http://interactivepython.org/courselib/static/pythonds/Recursion/DynamicProgramming.html
     * 실습 : 8장. 원주율 외우기 - https://algospot.com/judge/problem/read/PI
 
 3. 8회차 - 정렬과 검색 (2015-08-24)
     * 이론 : Sorting and Searching
-    * 발표자 : OOO, OOO
+    * 발표자 : 강원준, 박진수
     * 발표자료 - http://interactivepython.org/courselib/static/pythonds/SortSearch/Objectives.html
-    * 실습 : 1~1000까지의 수 랜덤하게 생성하고 각 정렬과 검색 방식 적용해 보기. 
+    * 실습 : 1~1000까지의 수 랜덤하게 생성하고 각 정렬과 검색 방식 적용해 보기.
 
 4. 9회차 - 트리와 트리 알고리즘 (2015-09-07, 2015-09-21)
     * 이론 : Trees and Tree Algorithms
-    * 발표자: OOO, OOO, OOO, OOO
+    * 발표자: 이형욱, 임성광, 조은우
     * 발표자료: http://interactivepython.org/runestone/static/pythonds/Trees/Objectives.html
     * 실습: 트리 순회 순서 변경 - https://algospot.com/judge/problem/read/TRAVERSAL
 
 5. 10회차 - 그래프와 그래프 알고리즘 (2015-10-05, 2015-10-19)
     * 이론 : Graphs and Graph Algorithms
-    * 발표자: OOO, OOO, OOO, OOO
+    * 발표자: 이동원, 최두선
     * 발표자료: http://interactivepython.org/runestone/static/pythonds/Graphs/Objectives.html
     * 실습: 고대어 사전 - https://algospot.com/judge/problem/read/DICTIONARY
