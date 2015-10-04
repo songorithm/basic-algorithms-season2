@@ -73,6 +73,6 @@ PART 2
 
 5. 10회차 - 그래프와 그래프 알고리즘 (2015-10-05, 2015-10-19)
     * 이론 : Graphs and Graph Algorithms
-    * 발표자: 이동원, 최두선
+    * 발표자: 이동환, 최두선
     * 발표자료: http://interactivepython.org/runestone/static/pythonds/Graphs/Objectives.html
     * 실습: 고대어 사전 - https://algospot.com/judge/problem/read/DICTIONARY
